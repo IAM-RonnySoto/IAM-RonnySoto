@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi everyone, I'm Ronny. <a>IAM Analyst</a>,  <a>IT Professional</a>, <a>Weightlifter</a>
 
-<!--
-**IAM-RonnySoto/IAM-RonnySoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Identity & Access Management Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+<h2>🤳 Certifications</h2>
+
+[CompTIA Security+](https://www.comptia.org/en-us/certifications/security/)
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e04d3dd5-5430-407c-a716-ffff633d4c5c" />
+
+
+
+
